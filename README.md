@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seulseul2&show_icons=true&theme=radical)
 
 <!--
 **seulseul2/seulseul2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
