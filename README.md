@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seulseul2&show_icons=true&theme=radical)
 
 <!--
