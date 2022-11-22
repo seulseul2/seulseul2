@@ -24,6 +24,8 @@
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&amp;logo=Ubuntu&amp;logoColor=white" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&amp;logo=Amazon EC2&amp;logoColor=white" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&amp;logo=Amazon S3&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=Docker&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&amp;logo=Jenkins&amp;logoColor=white" style="max-width: 100%;"></a>
   
 </p>
 
