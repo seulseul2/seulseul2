@@ -20,13 +20,14 @@
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=GitHub&amp;logoColor=white" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&amp;logo=GitLab&amp;logoColor=white" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&amp;logo=Jira&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&amp;logo=Notion&amp;logoColor=white" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Mattermost-0058CC?style=flat-square&amp;logo=Mattermost&amp;logoColor=white" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&amp;logo=Ubuntu&amp;logoColor=white" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&amp;logo=Amazon EC2&amp;logoColor=white" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&amp;logo=Amazon S3&amp;logoColor=white" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=Docker&amp;logoColor=white" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&amp;logo=Jenkins&amp;logoColor=white" style="max-width: 100%;"></a>
-  
+  <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&amp;logo=Nginx&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 
 
