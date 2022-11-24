@@ -7,8 +7,41 @@
 <li>Opendata Youth Intern (2021.08 - 2021.12)</li>
 <li>Kyunghee University, Hospitality Management (2014.03 - 2020.08)</li>
 </ul>
+<br>
 
-
+<h3 dir="auto"><a id="user-content--project" class="anchor" aria-hidden="true" href="#-project"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Project</h3>
+<table>
+<thead>
+<tr>
+<th align="center">Period</th>
+<th align="center">Category</th>
+<th>Project</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">2022.10 - 2022.11</td>
+<td align="center">Mobile App</td>
+<td><a href="https://github.com/seulseul2/Lyra">Lyra</a> (버스킹 홍보 & 후원 플랫폼)</td>
+</tr>
+<tr>
+<td align="center">2022.08 - 2022.10</td>
+<td align="center">Mobile Web</td>
+<td><a href="https://github.com/seulseul2/Yeobo">여보(여행 보따리)</a> (코사인 유사도 기반 여행지 추천 서비스)</td>
+</tr>
+<tr>
+<td align="center">2022.07 - 2022.08</td>
+<td align="center">Responsive Web</td>
+<td><a href="https://github.com/seulseul2/SoldSolve">Sold Solve</a> (Web RTC 기술을 활용한 중고 라이브 커머스)</td>
+</tr>
+<tr>
+<td align="center">2022.05 - 2022.05</td>
+<td align="center">Web</td>
+<td><a href="https://github.com/seulseul2/HH_Movie">HH Movie</a> (추천 알고리즘을 사용한 영화 커뮤니티)</td>
+</tr>
+</tbody>
+</table>
+<br>
 
 <h3 dir="auto"><a id="user-content--tech-stack" class="anchor" aria-hidden="true" href="#-tech-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> Tech Stack</h3>
 
