@@ -1,6 +1,11 @@
 ### Hi there 👋
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seulseul2&show_icons=true&theme=radical) -->
 
+<p align="center" dir="auto">
+  Hi! I'm interested in backend develop <br>
+  ___
+</p>
+
 <h3 dir="auto"><a id="user-content-books-education--career" class="anchor" aria-hidden="true" href="#books-education--career"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> Education &amp; Career</h3>
 <ul dir="auto">
 <li>Samsung SW Academy For Youth (a.k.a. SSAFY) 7th (2022.01 - present)</li>
@@ -27,7 +32,7 @@
 <tr>
 <td align="center">2022.08 - 2022.10</td>
 <td align="center">Mobile Web</td>
-<td><a href="https://github.com/seulseul2/Yeobo">여보(여행 보따리)</a> (코사인 유사도 기반 여행지 추천 서비스)</td>
+<td><a href="https://github.com/seulseul2/Yeobo">여보</a> (코사인 유사도 기반 여행지 추천 서비스)</td>
 </tr>
 <tr>
 <td align="center">2022.07 - 2022.08</td>
