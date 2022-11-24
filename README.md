@@ -1,8 +1,7 @@
-### Hi there 👋
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seulseul2&show_icons=true&theme=radical) -->
 
 <p align="center" dir="auto">
-  Hi! I'm interested in backend develop <br>
+  Hi there 👋! I'm interested in backend develop <br>
   ___
 </p>
 
