@@ -25,7 +25,7 @@
 <tbody>
 <tr>
 <td align="center">2022.10 - 2022.11</td>
-<td align="center">Mobile App</td>
+<td align="center">Android App</td>
 <td><a href="https://github.com/seulseul2/Lyra">Lyra</a> (버스킹 홍보 & 후원 플랫폼)</td>
 </tr>
 <tr>
