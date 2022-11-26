@@ -1,5 +1,9 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seulseul2&show_icons=true&theme=radical) -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=3DDC84&height=300&section=header&text=Seulseul Cho&fontSize=70" />
+</p>
+
 <p align="center" dir="auto">
   Hi there 👋! I'm interested in backend develop <br>
   ___
