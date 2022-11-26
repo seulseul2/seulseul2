@@ -1,6 +1,6 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seulseul2&show_icons=true&theme=radical) -->
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto=300&section=header&text=seulseul😄%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=#66667&hight=300&section=header&text=seulseul😄%20&fontSize=90)
 
 <p align="center" dir="auto">
   Hi there 👋! I'm interested in backend develop <br>
