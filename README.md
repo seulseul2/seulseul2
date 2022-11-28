@@ -43,7 +43,7 @@
 <tr>
 <td align="center">2022.05 - 2022.05</td>
 <td align="center">Web</td>
-<td><a href="https://github.com/seulseul2/HH_Movie">HH Movie</a> (영화추천 커뮤니티)</td>
+<td><a href="https://github.com/seulseul2/HH_Movie">HH Movie</a> (TMDB Open API 영화추천 커뮤니티)</td>
 </tr>
 </tbody>
 </table>
