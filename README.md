@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=200&section=header&text=seulseul👔%20&fontSize=90)
 
 <p align="center" dir="auto">
-  Hi there 👋! I'm interested in backend develop <br>
+  Hi there 👋! I'm interested in DevOps, MSA <br>
   ___
 </p>
 
